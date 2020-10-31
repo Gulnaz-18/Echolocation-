@@ -1,1 +1,2 @@
-# Echolocation-
+# Echolocation
+Program written in MATLAB
